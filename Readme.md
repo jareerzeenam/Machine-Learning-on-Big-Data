@@ -41,9 +41,12 @@ Understand Logistic Regression using PySpark ML with a mathematical perspective.
 
 ## Getting Started
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/jareerzeenam/Machine-Learning-on-Big-Data.git
-   cd your-repo
+   ```
+
+   ```
+   cd Machine-Learning-on-Big-Data
    ```
 
 2. Navigate to the specific week's folder to access the code and resources.
